@@ -66,4 +66,4 @@ Working on a live data set was challenging, fun, and a great opportunity for gro
 ## Contact
 * Send me an email at KMitzner9@gmail.com 
 * Contact me via my portfolio site [portfolio site](http://www.kenziemitzner.com/)
-* Message me on [LinkedIn](https://www.linkedin.com/in/kenzie-mitzner/)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/kenzie-mitzner/)
