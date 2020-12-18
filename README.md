@@ -1,6 +1,6 @@
-# GooglePlayStore_LiveProject
-Files for the Google Play Store Live Project
-This project is a part of the [Tech Academy Data Science Bootcamp](https://www.learncodinganywhere.com/).
+# Internship - Prosper IT Consulting - Google Play Store
+Files for the Google Play Store Internship through Prosper IT Consulting
+This project was done in collaboration with [Prosper IT Consulting](https://www.learncodinganywhere.com/ProsperITConsulting).
 
 #### -- Project Status: [Completed]
 
